@@ -19,31 +19,15 @@ User inputs their gross salary, the program calculates and outputs the user's Pa
 ## 💻 Installation 
 
 ```bash
-1. sudo apt install python3 && sudo apt install python3-pip
-2. pip3 install httpserver
-3. git clone https://github.com/alvinkenyagah/CodeWeekChallenge1.git
-4. cd CodeWeekChallenge1
-5. ls
-6. python3 -m http.server
-7. open 127.0.0.1:8000 in your browser
-8. !Enjoy!
+sudo apt install python3 && sudo apt install python3-pip
+pip3 install httpserver
+git clone https://github.com/alvinkenyagah/CodeWeekChallenge1.git
+cd CodeWeekChallenge1
+ls
+python3 -m http.server
+open 127.0.0.1:8000 in your browser
+!Enjoy!
 ```
-
-
-
-
-
-
-# Local Setup:
-1. sudo apt install python3 && sudo apt install python3-pip
-2. pip3 install httpserver
-3. git clone https://github.com/alvinkenyagah/CodeWeekChallenge1.git
-4. cd CodeWeekChallenge1
-5. ls
-6. python3 -m http.server
-7. open 127.0.0.1:8000 in your browser
-8. !Enjoy!
-
 
 ## Known Bugs
 You tell me.

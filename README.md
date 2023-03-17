@@ -25,7 +25,7 @@ git clone https://github.com/alvinkenyagah/CodeWeekChallenge1.git
 cd CodeWeekChallenge1
 ls
 python3 -m http.server
-open 127.0.0.1:8000 in your browser
+open http://127.0.0.1:8000  in your browser
 !Enjoy!
 ```
 

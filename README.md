@@ -1,6 +1,14 @@
 # CodeWeekChallenge1
 
 ## Description
+### Student Grade Generator
+User enters result from 0-100 and they will get an output of the relevant grade in relation to the results enter
+
+### Speed Detector
+User enters the value of the speed and if the speed is less than 70, it prints “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it give the driver one demerit point and print the total number of demerit points. If the driver gets more than 12 points, the output print: “License suspended”.
+
+### Net Salary Calculator
+User inputs their gross salary, the program calculates and outputs the user's Payee Tax, NHIF, NSSF Deductions and net salary.
  
   The live link to the project:  
 ## Setup/Installation Requirements

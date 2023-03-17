@@ -2,7 +2,7 @@
 
 ## Description
  
-  The live link to the landing page:  
+  The live link to the project:  
 ## Setup/Installation Requirements
 * An internet connection.
 * Browser.

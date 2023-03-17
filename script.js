@@ -107,9 +107,43 @@ function netSalCalculator() {
     case basicSalary <= 15000:
       deduction = 500;
       break;
-    case basicSalary > 15000:
-      deduction = 600;
+    case basicSalary <= 20000:
+      deduction = 750;
       break;
+    case basicSalary <= 25000:
+      deduction = 850;
+      break;
+    case basicSalary <= 30000:
+      deduction = 900;
+      break;
+    case basicSalary <= 35000:
+      deduction = 950;
+      break;
+    case basicSalary <= 40000:
+      deduction = 1000;
+      break;
+    case basicSalary <= 45000:
+      deduction = 1100;
+      break;
+    case basicSalary <= 50000:
+      deduction = 1200;
+      break;
+    case basicSalary <= 60000:
+      deduction = 1300;
+      break;
+    case basicSalary <= 70000:
+      deduction = 1400;
+      break;
+    case basicSalary <= 80000:
+      deduction = 1500;
+      break;
+    case basicSalary <= 90000:
+      deduction = 1600;
+      break;
+    case basicSalary > 100000:
+      deduction = 1700;
+      break;
+
     default:
       deduction = 0;
       break;

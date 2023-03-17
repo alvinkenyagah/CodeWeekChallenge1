@@ -11,7 +11,7 @@ User enters the value of the speed and if the speed is less than 70, it prints â
 ### Net Salary Calculator
 User inputs their gross salary, the program calculates and outputs the user's Payee Tax, NHIF, NSSF Deductions and net salary.
  
-  The live link to the project:  
+  The live link to the project:  https://alvinkenyagah.github.io/CodeWeekChallenge1/
 
 
 

@@ -1,6 +1,7 @@
 # CodeWeekChallenge1
 
 ## Description
+
 ### Student Grade Generator
 User enters result from 0-100 and they will get an output of the relevant grade in relation to the results enter
 
@@ -11,12 +12,19 @@ User enters the value of the speed and if the speed is less than 70, it prints â
 User inputs their gross salary, the program calculates and outputs the user's Payee Tax, NHIF, NSSF Deductions and net salary.
  
   The live link to the project:  
-## Setup/Installation Requirements
-* An internet connection.
-* Browser.
-* javaScript allowed to run on the browser. 
+# Local Setup:
+1. sudo apt install python3 && sudo apt install python3-pip
+2. pip3 install httpserver
+3. git clone https://github.com/alvinkenyagah/CodeWeekChallenge1.git
+4. cd CodeWeekChallenge1
+5. ls
+6. python3 -m http.server
+7. open 127.0.0.1:8000 in your browser
+8. !Enjoy!
+
+
 ## Known Bugs
-What we do section is glitchy in some browsers.
+You tell me.
 ## Technologies Used
 Languages used include: HTML, CSS, javaScript. Tools used to code is Microsofts Visual studio code.
 ## Support and contact details

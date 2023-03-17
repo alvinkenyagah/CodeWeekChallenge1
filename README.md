@@ -12,6 +12,28 @@ User enters the value of the speed and if the speed is less than 70, it prints â
 User inputs their gross salary, the program calculates and outputs the user's Payee Tax, NHIF, NSSF Deductions and net salary.
  
   The live link to the project:  
+
+
+
+
+## ðŸ’» Installation 
+
+```bash
+1. sudo apt install python3 && sudo apt install python3-pip
+2. pip3 install httpserver
+3. git clone https://github.com/alvinkenyagah/CodeWeekChallenge1.git
+4. cd CodeWeekChallenge1
+5. ls
+6. python3 -m http.server
+7. open 127.0.0.1:8000 in your browser
+8. !Enjoy!
+```
+
+
+
+
+
+
 # Local Setup:
 1. sudo apt install python3 && sudo apt install python3-pip
 2. pip3 install httpserver

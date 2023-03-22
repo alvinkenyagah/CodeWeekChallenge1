@@ -3,7 +3,7 @@
 ## Description
 
 ### Student Grade Generator
-User enters result from 0-100 and they will get an output of the relevant grade in relation to the results enter
+Prompts the User to enters result from 0-100 and they will get an output of the relevant grade in relation to the results enter.
 
 ### Speed Detector
 User enters the value of the speed and if the speed is less than 70, it prints “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it give the driver one demerit point and print the total number of demerit points. If the driver gets more than 12 points, the output print: “License suspended”.
@@ -21,12 +21,18 @@ sudo apt install python3 && sudo apt install python3-pip
 pip3 install httpserver
 git clone https://github.com/alvinkenyagah/CodeWeekChallenge1.git
 cd CodeWeekChallenge1
-ls
 python3 -m http.server
 open http://127.0.0.1:8000  in your browser
 !Enjoy!
 ```
-
+<ol>
+<li>sudo apt install python3 && sudo apt install python3-pip</li>
+<li>pip3 install httpserver</li>
+<li>git clone https://github.com/alvinkenyagah/CodeWeekChallenge1.git</li>
+<li>cd CodeWeekChallenge1</li>
+<li>python3 -m http.server</li>
+<li>open http://127.0.0.1:8000  in your browser</li>
+</ol>
 ## Technologies Used
 Languages used include: HTML, CSS, javaScript. Tools used to code is Microsofts Visual studio code.
 ## Support and contact details

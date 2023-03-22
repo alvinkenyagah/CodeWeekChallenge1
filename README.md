@@ -11,8 +11,6 @@ User enters the value of the speed and if the speed is less than 70, it prints â
 ### Net Salary Calculator
 User inputs their gross salary, the program calculates and outputs the user's Payee Tax, NHIF, NSSF Deductions and net salary.
  
-  The live link to the project:  https://alvinkenyagah.github.io/CodeWeekChallenge1/
-
 
 
 
@@ -29,8 +27,6 @@ open http://127.0.0.1:8000  in your browser
 !Enjoy!
 ```
 
-## Known Bugs
-You tell me.
 ## Technologies Used
 Languages used include: HTML, CSS, javaScript. Tools used to code is Microsofts Visual studio code.
 ## Support and contact details

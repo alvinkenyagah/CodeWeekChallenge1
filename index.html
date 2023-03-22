@@ -1,53 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="./style.css">
+    <meta charset="UTF-8" >
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+    <link rel="stylesheet" href="./style.css" >
     <title>Week 1 Code challenge</title>
-
   </head>
   <body>
     <div class="container">
       <div class="studentgrade">
         <h2>Student Grade Generator</h2>
+        <br><br>
+        <button onclick="grading()">PROMPT GRADE</button>
+        <h2 id="gradedresult"></h2>
+      </div>
+
+      <div class="netsal">
+        <h2>Net Salary Calculator</h2>
         <input
           type="text"
-          placeholder="Enter grade between 0-100"
-          id="graded"
-          required
-        />
-        <br /><br />
-        <button onclick="grading()">SUBMIT!!</button>
-        <h1 id="gradedresult"></h1>
-      </div>
-
-      <div class="nfs">
-        <h2>Speed Detector</h2>
-        <input type="text" placeholder="Enter your speed" id="speed" /> <br />
-        <br />
-        <button onclick="speedDetector()">SUBMIT!!</button>
-        <h1 id="speeder"></h1>
-      </div>
-    </div>
-
-    <div class="container-2">
-      <div class="netsal">
-
-        <h2>Net Salary Calculator</h2>
-        <input type="text" placeholder="Enter your monthly gross salary" id="grosssalary"><br><br>
-        <button onclick="netSalCalculator()">SUBMIT!!</button> <br>
+          placeholder="Enter your monthly gross salary"
+          id="grosssalary"
+        ><br><br >
+        <button onclick="netSalCalculator()">SUBMIT</button> <br>
         <h2 id="payeeTax"></h2>
         <h2 id="NHIF"></h2>
         <h2 id="NSSF"></h2>
         <h1 id="netsalary"></h1>
-        
+      </div>
 
-
+      <div class="nfs">
+        <h2>Speed Detector</h2>
+        <input type="text" placeholder="Enter your speed" id="speed"> <br>
+        <br>
+        <button onclick="speedDetector()">SUBMIT</button>
+        <h2 id="speeder"></h2>
       </div>
     </div>
 
+    <script src="./speed-detector/speed-detector.js"></script>
+    <script src="./student-grade-generator/gradeGen.js"></script>
+    <script src="./net-salary-calculator/net-salary.js"></script>
     <script src="./script.js"></script>
   </body>
 </html>

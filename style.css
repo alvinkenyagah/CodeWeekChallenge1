@@ -1,37 +1,30 @@
+.netsal {
+  border: 3px solid black;
+  width: 50%;
+
+  height: 79vh;
+  text-align: center;
+}
+
+.nfs {
+  border: 3px solid black;
+  width: 50%;
+
+  height: 79vh;
+  text-align: center;
+}
+
 .studentgrade {
-    border: 3px solid black;
-    width: 100%;
-    height: 25%;
-    margin-top: 1%;
+  border: 3px solid black;
+  width: 50%;
 
-    text-align: center;
-  }
+  height: 79vh;
+  text-align: center;
+}
 
-  .nfs {
-    border: 3px solid black;
-    width: 100%;
-    height: 25%;
-    margin-top: 1%;
-    text-align: center;
-  }
-
-  .netsal{
-    border: 3px solid black;
-    width: 100%;
-    height: 25%;
-    margin-top: 1%;
-    text-align: center;
-
-  }
-
-  .container {
-    display: flex;
-    gap: 10px;
-  }
-
-  .container-2 {
-    display: flex;
-    gap: 10px;
-  }
-
-
+.container {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  height: 79vh;
+}

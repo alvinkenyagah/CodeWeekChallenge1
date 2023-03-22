@@ -23,6 +23,7 @@ User inputs their gross salary, the program calculates and outputs the user's Pa
 <li>python3 -m http.server</li>
 <li>open http://127.0.0.1:8000  in your browser</li>
 </ol>
+
 ## Technologies Used
 Languages used include: HTML, CSS, javaScript. Tools used to code is Microsofts Visual studio code.
 ## Support and contact details

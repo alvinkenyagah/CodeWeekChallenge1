@@ -2,15 +2,16 @@
   border: 3px solid black;
   width: 50%;
 
-  height: 79vh;
+  height: 80vh;
   text-align: center;
+  
 }
 
 .nfs {
   border: 3px solid black;
   width: 50%;
 
-  height: 79vh;
+  height: 80vh;
   text-align: center;
 }
 
@@ -18,7 +19,7 @@
   border: 3px solid black;
   width: 50%;
 
-  height: 79vh;
+  height: 80vh;
   text-align: center;
 }
 
@@ -26,5 +27,5 @@
   display: flex;
   align-items: flex-start;
   gap: 10px;
-  height: 79vh;
+  height: 80vh;
 }
